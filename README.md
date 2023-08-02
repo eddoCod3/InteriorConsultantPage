@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Interior Consultant </h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -63,9 +63,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Responsive Topnav with Dropdown](https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp)
+- [Mobile Navigation Menu](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
+- [How TO - Curtain Menu](https://www.w3schools.com/howto/howto_js_curtain_menu.asp)
 
 ## Contact
 
